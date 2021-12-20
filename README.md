@@ -3,11 +3,6 @@
 Pern stack application where users can search and find recipes and also save them to a saved recipes list by creating a account.
 Recipe API used for this app: https://www.edamam.com/
 
-## This is the Fronend Repo
-
-Link to backend repo: https://github.com/Rayhan1998/-brightPaths-foundations-capston-Backend-
-Need backend server to run for whole app to work
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -42,6 +37,21 @@ npm install
 npm run start
 ```
 
+### Backend server setup
+
+1. Go to backend root directory
+
+2) Run npm install inside project root directory
+
+```
+npm install
+```
+
+3. Start the server
+
+```
+type in nodemon in terminal
+
 ## Built With
 
 -Pern stack
@@ -63,3 +73,4 @@ npm run start
 # Wireframee
 
 link: https://www.figma.com/file/ioS9ytRNqEid0Xe1Q8bgng/foody?node-id=0%3A1
+```
