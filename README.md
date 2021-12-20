@@ -51,6 +51,7 @@ npm install
 
 ```
 type in nodemon in terminal
+```
 
 ## Built With
 
@@ -73,4 +74,7 @@ type in nodemon in terminal
 # Wireframee
 
 link: https://www.figma.com/file/ioS9ytRNqEid0Xe1Q8bgng/foody?node-id=0%3A1
+
+```
+
 ```
