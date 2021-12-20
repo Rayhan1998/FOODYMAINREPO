@@ -1,0 +1,36 @@
+.recipe-details {
+  background: linear-gradient(to right bottom, #fbdb89, #f48982);
+
+  background-size: cover;
+  min-height: 100vh;
+}
+.recipe-details-top {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.recipe-details-middle {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 50px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.recipe-details-bottom {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.healthlabels {
+  width: 300px;
+  flex-wrap: wrap;
+}

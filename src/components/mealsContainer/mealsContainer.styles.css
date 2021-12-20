@@ -1,0 +1,17 @@
+.meals-container {
+  padding: 50px;
+}
+
+section .meal-of-day {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-bottom: 30px;
+}
+
+section .world-cuisines {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-bottom: 30px;
+}

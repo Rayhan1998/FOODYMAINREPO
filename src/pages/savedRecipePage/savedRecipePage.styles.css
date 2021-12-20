@@ -1,0 +1,20 @@
+.saved-recipe-page {
+  background: linear-gradient(to right bottom, #fbdb89, #f48982);
+
+  min-height: 100vh;
+}
+
+.saved-recipes {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  justify-content: center;
+  margin: 0 auto;
+  height: 100%;
+  width: 100%;
+}
+
+.boxes {
+  width: 300px !important;
+  min-height: 450px !important;
+}
